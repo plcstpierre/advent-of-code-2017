@@ -1,0 +1,1 @@
+GOPATH=`pwd` go get github.com/stretchr/testify
